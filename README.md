@@ -92,5 +92,4 @@ The web app follows a simple three-tier architecture:
    - Implement secure session management using secure cookies.
 
 ## Deployment
-
-Deploy the web app on a secure server with HTTPS to ensure data integrity and confidentiality.
+The web app will be deployedon a secure server with HTTPS to ensure data integrity and confidentiality.
